@@ -1,26 +1,77 @@
-<h1 class="title">{{ title }}</h1>
-<p>
-  A blazing fast frontend development starter template, bundled using
-  <a href="https://parceljs.org/" target="_blank" rel="noopener noreferrer"
-    >Parcel</a
-  >. ✨
-</p>
-<div class="get-started">
-  <a
-    href="https://app.netlify.com/start/deploy?repository=https://github.com/aileen-r/parcel-html-sass-js-starter-template"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img src="url:./assets/deploy-to-netlify.svg" alt="Deploy to Netlify"
-  /></a>
-  <a
-    class="github-button"
-    href="https://github.com/aileen-r/parcel-html-sass-js-starter-template"
-    target="_blank"
-    rel="noopener noreferrer"
-    ><img
-      src="url:./assets/octocat.svg"
-      alt="GitHub Octocat icon"
-    />
-    Source Code</a
-  >
-</div>
+<header>
+    <section class="hero">
+        <div class="container">
+            <div class="row nav-wrapper">
+                <div class="col-md-3 col-sm-3 col-xs-3 text-left logo">
+                              <a href="/" class="brand">ecams.io</a>
+                </div>
+                <div class="col-md-9 col-sm-9 col-xs-9 text-right">
+                    <div class="menu-wrap">
+                        <ul>
+                            <li class="item_1"><a href="#">Menu<span class="icon_menu"></span></a>
+                                <ul>
+                                    <div class="menu_block">
+                                        <li class="home">
+                                            <a href="/"><span class="icon icon_home"></span>Start page</a>
+                                        </li>
+                                        <li class="howitworks">
+                                            <a href="howitworks">
+                                                <span class="icon icon_works"></span>How it works
+                                            </a>
+                                        </li>
+                                        <li class="contacts">
+                                          <a href="contacts">
+                                          <span class="icon icon_contacts"></span>Contacts</a>
+                                        </li>
+                                    </div>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul>
+                            <li role="presentation" id="languages_panel" class="top-menu-element noselect">
+                                <nav>
+                                    <ul class="dropdown-with-border-radius">
+                                        <li><a id="current_language" class="current-language"></a>
+                                            <ul class="language-dropdown-closed">
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="row hero-content">
+                <div class="col-md-7 col-xs-12">
+                    <h1 class="main_intro">Cloud video surveillance<br>and up to two years storage!</h1>
+
+                    <div class="menu-wrap-master inline_btn">
+                        <ul>
+                            <li class="item_55"><a href="/">View demo</a>
+                            <li class="item_33"><a href="#"><i class="fa fa-plus"></i>Add camera</a>
+                                <ul>
+                                    <div class="menu_block-master">
+                                        <li class="icon_master_ios"><a
+                                                href="https://apps.apple.com/app/partizan/id1473001227" target="_blank"><span>iOS application</span></a>
+                                        </li>
+                                        <li class="icon_master_android"><a
+                                                href="https://play.google.com/store/apps/details?id=com.partizan.pro"
+                                                target="_blank"><span>TV OS application</span></a></li>
+                                    </div>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-5 hidden-sm hidden-xs header_img">
+                              <img src="assets/images/header_cameras.png" alt="" class="header_cameras">
+                </div>
+            </div>
+        </div>
+    </section>
+</header>

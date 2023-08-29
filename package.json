@@ -25,6 +25,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
+    "bootstrap": "^3.4.1",
     "prismjs": "^1.25.0"
   }
 }

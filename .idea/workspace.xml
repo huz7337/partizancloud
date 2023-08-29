@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcc4ddd4-be0f-4553-9e8f-db1ba3514669" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/font/MyriadPro-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/MyriadPro-Regular_0.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/MyriadPro-Semibold_0.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/10_bgr_clouds2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/11_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/12_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/3_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/6_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/8_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/9_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/App_Store_Badge_US-UK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/CloudMaster-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/CloudMaster-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/CloudMaster-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-0-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-0-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-1-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-1-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-2-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-2-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-3-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-3-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-4-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-4-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-5-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-5-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-6-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-6-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-7-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Sandwich-7-passive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cameras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cases/5-3_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cases/5-4_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cases/5-5_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cases/5-6_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cases/5-7_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cd-top-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cloudmaster_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/devices-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/footer/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/footer/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/google-play-badge_EN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/guide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/guide_mob-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/guide_mob-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/guide_mob-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/header_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/header_cameras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/header_main.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/howitworks/2-5_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/howitworks/2-6_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/howitworks/2-8_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon3-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon3-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon3-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon3-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-1-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-2-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-3-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-4-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon8-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/laptop-v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/line1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/line2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/line3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/menu_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/menu_icon_white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/menu_list_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/partners/8-1_bgr-new.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/partners/8-1_bgr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/partnership_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_broadcast_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_broadcast_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_broadcast_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_broadcast_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_broadcast_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_broadcast_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/prices/price_cloud_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/shop/Bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/shop/Cubic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/shop/Robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/shop/dot-separator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/store_flag_cz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/store_flag_eu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/store_flag_ua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/cloud2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/cloud_nectar.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/parcel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_header.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ue8ksADibZELZzEXQZ8Jb8878W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/volodimirhuz/web/partizancloud/src/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets/images/footer" />
+      <recent name="$PROJECT_DIR$/src/assets/images/shop" />
+      <recent name="$PROJECT_DIR$/src/assets/video" />
+      <recent name="$PROJECT_DIR$/src/assets/images/prices" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcc4ddd4-be0f-4553-9e8f-db1ba3514669" name="Changes" comment="" />
+      <created>1693288831673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693288831673</updated>
+      <workItem from="1693288833866" duration="13560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
