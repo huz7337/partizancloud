@@ -4,8 +4,8 @@
   "description": "Starter template for building static web apps with HTML partials, SASS, and JavaScript.",
   "scripts": {
     "clean": "rimraf dist",
-    "start": "npm run clean && parcel serve ./src/index.html",
-    "build": "npm run clean && parcel build ./src/index.html",
+    "start": "npm run clean && parcel serve ./src/*.html",
+    "build": "npm run clean && parcel build ./src/*.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
