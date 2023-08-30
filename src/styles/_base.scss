@@ -2239,7 +2239,7 @@ ul.price:last-child {
 .hr_contact_head {
   margin: 20px auto;
   height: 1px;
-  background: #808080;
+  background: #00aae361;
   width: 25%;
 }
 
@@ -3671,4 +3671,10 @@ section.showcase .block-buy {
   .cloud-for-any-brand ul, .cloud-for-any-brand li {
     padding: 10px 0;
   }
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  min-height: 60vh;
 }

@@ -1,18 +1,13 @@
 {
-  "name": "parcel-html-sass-js-starter-template",
-  "version": "0.1.0",
-  "description": "Starter template for building static web apps with HTML partials, SASS, and JavaScript.",
+  "name": "ecams",
+  "version": "1.0.0",
   "scripts": {
     "clean": "rimraf dist",
     "start": "npm run clean && parcel serve ./src/*.html",
     "build": "npm run clean && parcel build ./src/*.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aileen-r/parcel-html-sass-js-starter-template.git"
-  },
-  "author": "Aileen Rae",
+  "author": "studio",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aileen-r/parcel-html-sass-js-starter-template/issues"
