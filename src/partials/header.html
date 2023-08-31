@@ -1,68 +1,62 @@
 <header>
     <section class="hero">
         <div class="container">
-            <div class="row">
+            <div class="row d-flex align-items-center mb-5">
                 <div class="col-6 col-lg-6 text-left">
                     <a href="/" class="brand">
-                        <img src="assets/images/logo.webp" class="logo">
+                        <img src="assets/images/logo.webp" class="logo w-100 w-lg-auto">
                     </a>
                 </div>
-                <div class="col-6 col-lg-6 text-right">
-                    <div class="menu-wrap">
-                        <ul>
-                            <li class="item_1"><a href="#">Menu<span class="icon_menu"></span></a>
-                                <ul>
-                                    <div class="menu_block">
-                                        <li class="home">
-                                            <a href="/"><span class="icon icon_home"></span>Start page</a>
-                                        </li>
-                                        <li class="howitworks">
-                                            <a href="howitworks">
-                                                <span class="icon icon_works"></span>How it works
-                                            </a>
-                                        </li>
-                                        <li class="contacts">
-                                          <a href="contacts">
-                                          <span class="icon icon_contacts"></span>Contacts</a>
-                                        </li>
-                                    </div>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div>
-                        <ul>
-                            <li role="presentation" id="languages_panel" class="top-menu-element noselect">
-                                <nav>
-                                    <ul class="dropdown-with-border-radius">
-                                        <li><a id="current_language" class="current-language"></a>
-                                            <ul class="language-dropdown-closed">
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </nav>
-                            </li>
-                        </ul>
-                    </div>
+                <div class="col-6 col-lg-6 d-flex justify-content-end">
+                        <div class="dropdown">
+                            <a class="btn dropdown-toggle"
+                               href="#"
+                               role="button" id="dropdownMenuLink"
+                               data-bs-toggle="dropdown"
+                               aria-expanded="false">
+                                <span>Menu</span>
+
+                            </a>
+
+                            <ul class="dropdown-menu"
+                                aria-labelledby="dropdownMenuLink">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Start page
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        How it works
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Contacts
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+
                 </div>
-
-
             </div>
-            <div class="row hero-content">
+
+            <div class="row hero-content align-items-end">
                 <div class="col-md-7 col-xs-12">
                     <h1 class="main_intro mb-5">Cloud video surveillance</h1>
 
                     <div class="mb-5">
-                            <div class="mobile_store mr">
-                                <a href="/" target="_blank">
-                                    <img src="assets/images/apple-tv.svg" alt="Download on the App Store">
-                                </a>
-                            </div>
-                            <div class="mobile_store">
-                                <button disabled>
-                                    <img src="assets/images/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play">
-                                </button>
-                            </div>
+                        <div class="mobile_store mr">
+                            <a href="/" target="_blank">
+                                <img src="assets/images/apple-tv.svg" alt="Download on the App Store">
+                            </a>
+                        </div>
+                        <div class="mobile_store">
+                            <button disabled>
+                                <img src="assets/images/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play">
+                            </button>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-5 hidden-sm hidden-xs header_img">

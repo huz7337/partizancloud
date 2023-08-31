@@ -44,11 +44,6 @@ html, html a {
   -webkit-font-smoothing: antialiased;
 }
 
-a:focus {
-  outline: thin dotted;
-  text-decoration: none;
-}
-
 a:active, a:hover {
   outline: 0;
   text-decoration: none;
@@ -2961,6 +2956,12 @@ ul {
   list-style: none;
 }
 
+button:focus, input:focus, a:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
 .screenshots figure {
   position: relative;
   overflow: hidden;
@@ -3080,12 +3081,12 @@ footer li {
 }
 
 footer li a {
-  opacity: 0.5;
+  text-decoration: none;
   color: #fff;
 }
 
 footer li a:hover {
-  opacity: 1.0;
+  color: white;
 }
 
 footer li:last-child {
@@ -3715,4 +3716,19 @@ section.showcase .block-buy {
   display: flex;
   align-items: center;
   min-height: 60vh;
+}
+
+.dropdown-menu {
+  overflow: hidden;
+  left: -24%;
+  min-width: auto;
+  background-color: #a62189;
+  border-radius: 20px;
+
+  li {
+    a {
+      padding: 7px 30px;
+      color: white;
+    }
+  }
 }
