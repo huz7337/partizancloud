@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc4ddd4-be0f-4553-9e8f-db1ba3514669" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Google_Play_Store_badge_EN.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/apple-ios.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/apple-tv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/google-play-badge.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
@@ -69,7 +65,7 @@
       <updated>1693288831673</updated>
       <workItem from="1693288833866" duration="14825000" />
       <workItem from="1693397927947" duration="4838000" />
-      <workItem from="1693473093955" duration="2073000" />
+      <workItem from="1693473093955" duration="5372000" />
     </task>
     <servers />
   </component>
