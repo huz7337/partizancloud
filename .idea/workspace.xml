@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc4ddd4-be0f-4553-9e8f-db1ba3514669" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/privacy-policy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terms-of-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Google_Play_Store_badge_EN.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/apple-ios.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/apple-tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/google-play-badge.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_base.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/volodimirhuz/web/partizancloud/src",
+    "last_opened_file_path": "/Users/volodimirhuz/web/partizancloud/src/assets/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,11 +49,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/assets/images/footer" />
       <recent name="$PROJECT_DIR$/src/assets/images/shop" />
-      <recent name="$PROJECT_DIR$/src/assets/video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1693288831673</updated>
       <workItem from="1693288833866" duration="14825000" />
-      <workItem from="1693397927947" duration="3487000" />
+      <workItem from="1693397927947" duration="4838000" />
+      <workItem from="1693473093955" duration="2073000" />
     </task>
     <servers />
   </component>
