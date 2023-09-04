@@ -3720,15 +3720,21 @@ section.showcase .block-buy {
 
 .dropdown-menu {
   overflow: hidden;
-  left: -24%;
+  right: 0;
   min-width: auto;
   background-color: #a62189;
   border-radius: 20px;
 
   li {
     a {
-      padding: 7px 30px;
+      padding: 7px 15px;
       color: white;
     }
+  }
+}
+
+.dropdown-toggle {
+  &:after {
+    display: none;
   }
 }
