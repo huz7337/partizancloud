@@ -3720,8 +3720,9 @@ section.showcase .block-buy {
 
 .dropdown-menu {
   overflow: hidden;
-  right: 0;
-  min-width: auto;
+  right: 0 !important;
+  left: -80px !important;
+  min-width: 100px;
   background-color: #a62189;
   border-radius: 20px;
 
