@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bcc4ddd4-be0f-4553-9e8f-db1ba3514669" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terms-of-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/terms-of-use.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <workItem from="1693473093955" duration="5775000" />
       <workItem from="1693480482049" duration="4235000" />
       <workItem from="1693808950662" duration="997000" />
-      <workItem from="1693828179467" duration="1910000" />
+      <workItem from="1693828179467" duration="4330000" />
     </task>
     <servers />
   </component>

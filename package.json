@@ -9,10 +9,6 @@
   },
   "author": "studio",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/aileen-r/parcel-html-sass-js-starter-template/issues"
-  },
-  "homepage": "https://parcel-html-sass-js-starter-template.netlify.app",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0",
     "parcel": "^2.0.0",
